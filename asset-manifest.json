@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shopito/static/css/main.474618d8.css",
-    "main.js": "/shopito/static/js/main.78bf7d9a.js",
+    "main.js": "/shopito/static/js/main.9c51f8c9.js",
     "index.html": "/shopito/index.html",
     "main.474618d8.css.map": "/shopito/static/css/main.474618d8.css.map",
-    "main.78bf7d9a.js.map": "/shopito/static/js/main.78bf7d9a.js.map"
+    "main.9c51f8c9.js.map": "/shopito/static/js/main.9c51f8c9.js.map"
   },
   "entrypoints": [
     "static/css/main.474618d8.css",
-    "static/js/main.78bf7d9a.js"
+    "static/js/main.9c51f8c9.js"
   ]
 }
