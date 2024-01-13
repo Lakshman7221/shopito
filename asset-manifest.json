@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopito/static/css/main.474618d8.css",
+    "main.js": "/shopito/static/js/main.80400dd1.js",
+    "index.html": "/shopito/index.html",
+    "main.474618d8.css.map": "/shopito/static/css/main.474618d8.css.map",
+    "main.80400dd1.js.map": "/shopito/static/js/main.80400dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.474618d8.css",
+    "static/js/main.80400dd1.js"
+  ]
+}
