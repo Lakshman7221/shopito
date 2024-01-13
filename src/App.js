@@ -28,7 +28,7 @@ const App = () => {
           <Route path="/register" element={<Register/>} />
           <Route path="/:id" element={<SingleProduct/>} />
           <Route path="/update/:id" element={<CreateProduct/>} />
-          <Route path="/" element={<Filters/>} />
+          {/* <Route path="/" element={<Filters/>} /> */}
         </Routes>
       </Router>
     </ThemeProvider>
